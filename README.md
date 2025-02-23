@@ -5,6 +5,6 @@ This project aims to build a high-quality TTS model for Chichewa. So far, we hav
 The screenshot below shows despicts the dataset on hugging face
 
 <p align="center">
-Home screen for annotators: <br/>
-<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_landing%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+Chichewa Speech Dataset: <br/>
+<img src="https://github.com/ndebvu/Chichewa-Speech-dataset/blob/main/Screenshot%20(37).png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
